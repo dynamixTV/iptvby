@@ -5,7 +5,8 @@
 Плейлисты для других стран :
 (Нажмите на ваш флаг)
 
-[🇷🇺](https://github.com/dynamixtv/iptv)
+[🇷🇺](https://github.com/dynamixtv/iptvru)
+[🇰🇿](https://github.com/dynamixtv/iptvkz)
 
 
 # Информация
